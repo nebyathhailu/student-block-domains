@@ -4,7 +4,7 @@ create a file called block_domains.py and paste the above script
 open the terminal and run this command sudo python3 block_domains.py
 
 # Link to Airtable Form
-(Link)[https://akirachix.fillout.com/t/bTmQjX6Knaus]
+[Link](https://akirachix.fillout.com/t/bTmQjX6Knaus)
 
 # Requirements to Check
 | Windows | Ubuntu |
