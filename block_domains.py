@@ -243,3 +243,158 @@ print("Blocking complete. Flush the DNS cache for changes to take effect.")
 127.0.0.1 ponicode.com
 127.0.0.1 x.ai
 127.0.0.1 quora.com
+
+
+# ==============================
+# AI Assistants & Chatbots
+# ==============================
+
+127.0.0.1 gemini.google.com
+127.0.0.1 www.gemini.google.com
+127.0.0.1 bard.google.com
+127.0.0.1 www.bard.google.com
+127.0.0.1 chatgpt.com
+127.0.0.1 www.chatgpt.com
+127.0.0.1 openai.com
+127.0.0.1 www.openai.com
+127.0.0.1 claude.ai
+127.0.0.1 www.claude.ai
+127.0.0.1 perplexity.ai
+127.0.0.1 www.perplexity.ai
+127.0.0.1 poe.com
+127.0.0.1 www.poe.com
+127.0.0.1 pi.ai
+127.0.0.1 www.pi.ai
+127.0.0.1 character.ai
+127.0.0.1 www.character.ai
+127.0.0.1 you.com
+127.0.0.1 www.you.com
+127.0.0.1 phind.com
+127.0.0.1 www.phind.com
+127.0.0.1 huggingface.co
+127.0.0.1 www.huggingface.co
+
+# ==============================
+# AI Writing & Paraphrasing Tools
+# ==============================
+
+127.0.0.1 quillbot.com
+127.0.0.1 www.quillbot.com
+127.0.0.1 grammarly.com
+127.0.0.1 www.grammarly.com
+127.0.0.1 jasper.ai
+127.0.0.1 www.jasper.ai
+127.0.0.1 writesonic.com
+127.0.0.1 www.writesonic.com
+127.0.0.1 rytr.me
+127.0.0.1 www.rytr.me
+127.0.0.1 wordtune.com
+127.0.0.1 www.wordtune.com
+127.0.0.1 scribbr.com
+127.0.0.1 www.scribbr.com
+127.0.0.1 paraphraser.io
+127.0.0.1 www.paraphraser.io
+127.0.0.1 spinbot.com
+127.0.0.1 www.spinbot.com
+127.0.0.1 gamma.app
+127.0.0.1 www.gamma.app
+127.0.0.1 magicschool.ai
+127.0.0.1 www.magicschool.ai
+
+# ==============================
+# Homework / Academic Help
+# ==============================
+
+127.0.0.1 chegg.com
+127.0.0.1 www.chegg.com
+127.0.0.1 coursehero.com
+127.0.0.1 www.coursehero.com
+127.0.0.1 brainly.com
+127.0.0.1 www.brainly.com
+127.0.0.1 studocu.com
+127.0.0.1 www.studocu.com
+127.0.0.1 slader.com
+127.0.0.1 www.slader.com
+127.0.0.1 photomath.com
+127.0.0.1 www.photomath.com
+127.0.0.1 symbolab.com
+127.0.0.1 www.symbolab.com
+127.0.0.1 wolframalpha.com
+127.0.0.1 www.wolframalpha.com
+127.0.0.1 consensus.app
+127.0.0.1 www.consensus.app
+
+# ==============================
+# AI Coding Tools
+# ==============================
+
+127.0.0.1 github.com
+127.0.0.1 www.github.com
+127.0.0.1 copilot.microsoft.com
+127.0.0.1 www.copilot.microsoft.com
+127.0.0.1 replit.com
+127.0.0.1 www.replit.com
+127.0.0.1 cursor.com
+127.0.0.1 www.cursor.com
+127.0.0.1 tabnine.com
+127.0.0.1 www.tabnine.com
+127.0.0.1 codeium.com
+127.0.0.1 www.codeium.com
+127.0.0.1 blackbox.ai
+127.0.0.1 www.blackbox.ai
+127.0.0.1 askcodi.com
+127.0.0.1 www.askcodi.com
+127.0.0.1 sourcegraph.com
+127.0.0.1 www.sourcegraph.com
+127.0.0.1 aws.amazon.com
+127.0.0.1 www.aws.amazon.com
+
+# ==============================
+# AI Image / Video Generators
+# ==============================
+
+127.0.0.1 midjourney.com
+127.0.0.1 www.midjourney.com
+127.0.0.1 runwayml.com
+127.0.0.1 www.runwayml.com
+127.0.0.1 leonardo.ai
+127.0.0.1 www.leonardo.ai
+127.0.0.1 ideogram.ai
+127.0.0.1 www.ideogram.ai
+127.0.0.1 stability.ai
+127.0.0.1 www.stability.ai
+
+# ==============================
+# Social Media (if needed)
+# ==============================
+
+127.0.0.1 facebook.com
+127.0.0.1 www.facebook.com
+127.0.0.1 instagram.com
+127.0.0.1 www.instagram.com
+127.0.0.1 youtube.com
+127.0.0.1 www.youtube.com
+127.0.0.1 reddit.com
+127.0.0.1 www.reddit.com
+127.0.0.1 x.com
+127.0.0.1 www.x.com
+127.0.0.1 snapchat.com
+127.0.0.1 www.snapchat.com
+127.0.0.1 tiktok.com
+127.0.0.1 www.tiktok.com
+127.0.0.1 web.whatsapp.com
+
+127.0.0.1 api.perplexity.ai
+127.0.0.1 chat.perplexity.ai
+127.0.0.1 perplexity.ai
+127.0.0.1 www.perplexity.ai
+127.0.0.1 qwen.ai
+127.0.0.1 www.qwen.ai
+127.0.0.1 chat.qwen.ai
+127.0.0.1 zed.dev
+127.0.0.1 www.zed.dev
+127.0.0.1 deepseek.com
+127.0.0.1 www.deepseek.com
+127.0.0.1 chat.deepseek.com
+127.0.0.1 devv.ai
+127.0.0.1 www.devv.ai
