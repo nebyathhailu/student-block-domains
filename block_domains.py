@@ -328,8 +328,6 @@ print("Blocking complete. Flush the DNS cache for changes to take effect.")
 # AI Coding Tools
 # ==============================
 
-127.0.0.1 github.com
-127.0.0.1 www.github.com
 127.0.0.1 copilot.microsoft.com
 127.0.0.1 www.copilot.microsoft.com
 127.0.0.1 replit.com
