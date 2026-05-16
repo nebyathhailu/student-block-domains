@@ -6,6 +6,9 @@ open the terminal and run this command sudo python3 block_domains.py
 # Link to Airtable Form
 [Link](https://akirachix.fillout.com/t/bTmQjX6Knaus)
 
+# Serial Number Check
+sudo dmidecode -s system-serial-number
+
 # Requirements to Check
 | Windows | Ubuntu |
 | :--- | :--- |
