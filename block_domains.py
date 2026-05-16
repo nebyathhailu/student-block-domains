@@ -113,6 +113,21 @@ with open(hosts_path, "a") as hosts_file:
 
 print("Blocking complete. Flush the DNS cache for changes to take effect.")
 
+Windows
+The Correct Windows Workflow
+1. Open Notepad as Administrator
+Click your Start button and type Notepad.Right-click on the Notepad icon and select "Run as administrator".
+Click Yes if a window pops up asking for permission.2. Open the File from within Notepad
+In Notepad, go to File > Open.
+In the address bar at the top, paste this and hit Enter: C:\Windows\System32\drivers\etcImportant: In the bottom right corner of the window, change "Text Documents (.txt)" to **"All Files (.*)"**.
+Double-click the file named hosts.3. Add the Block List
+Paste the list at the very bottom:
+4. Save
+Go to File > Save (or press Ctrl + S). It should save instantly now without an error message.5. Clear the Cache
+Open your Windows PowerShell (the blue window from your photo) and type:
+ipconfig /flushdns
+
+
 
 Ubuntu
 
@@ -267,3 +282,5 @@ Ubuntu
 127.0.0.1 chat.deepseek.com
 127.0.0.1 devv.ai
 127.0.0.1 www.devv.ai
+
+
